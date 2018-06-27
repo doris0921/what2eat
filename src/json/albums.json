@@ -1,0 +1,21 @@
+[
+   {
+       "url":"https://tw.yahoo.com/",
+      "store": "告野家大安店",
+      "time": "08:00-23:00",
+      "address": "台北市大安區復興南路二段4號",
+      "thumbnail_image": "https://i.imgur.com/xbDJDYX.png"
+      },
+   {
+      "store": "告野家台大店",
+      "time": "00:00-24:00",
+      "address": "台北市中正區羅斯福路四段6號",
+      "thumbnail_image": "https://i.imgur.com/xbDJDYX.png"
+   },
+   {
+      "store": "告野家敦南店",
+      "time": "08:00-23:00",
+      "address": "台北市大安區和平東路三段63號",
+      "thumbnail_image": "https://i.imgur.com/xbDJDYX.png"
+   }
+]
